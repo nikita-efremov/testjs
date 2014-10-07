@@ -36,7 +36,7 @@ public class UserBean {
         userNameError="";
         dateOfBirthError="";
         emailError="";
-        phoneNoError="";
+        phoneNoError="-";
 
         action = "submit";
     }
